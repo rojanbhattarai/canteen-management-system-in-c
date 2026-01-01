@@ -31,4 +31,4 @@ Explanation of Canteen Management and Billing System
 14. The program uses functions, loops, conditionals, arrays, and file operations for proper program flow.
 
 15. Overall, this project demonstrates a simple, user-friendly, and practical application of C programming concepts for real-world use.
-16. Practice on your own to get better results
+16. Practice on your own to get better results and also do your best in reading books of c
